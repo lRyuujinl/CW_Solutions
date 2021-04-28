@@ -1,5 +1,2 @@
-# CW_Solutions
-
-My Training exercises for CodeWars.
-
-Practice is the best way to learn.
+  Em Meados de 2001, a frequencia de casos de fraudes contábeis era consideravelmente alta. Esses casos, levaram diversas empresas, como por exemplo a Enron, a falir com uma divida superior a 13 bilhões de dolares. Isso ocorreu, pois por muitos anos, os balancetes contábeis eram maquiados com informações falsas e apresentavam prejuízos reduzidos e exagero na demonstração dos lucros. Como a transparência desse exercício contabil não era concisa, foi necessário criar um mecanismo que corrigisse essa falha para que situações como a de Enron, nao viesse a ocorrer mais com tanta frequencia. Esse mecanismo tem como objetivo, transmitir confiança e assegurar que as empresas tomassem responsabilidades corporativas com os seus investidores e acionistas e dessa forma, a lei Sarbanes-Oxley, ou simplesmente SOx, passou a existir.
+  A lei SOx foi sancionada em 2002 pelo Congresso dos Estados Unidos para proteger investidores e os demais stakeholders dos erros das escriturações contábeis e práticas fraudulentas. Ela foi criada pelos congressitas Paul Sarbanes e Michel Oxley e visa aprimorar a governança corporativa e a prestação de contas. O objetivo desse trabalho, é de investigar essa lei, contemplando as principais seções da mesma, assim como as vantagens e desvantagens, o seu histórico de surgimento, como essa lei é aplicada nas empresas e exemplos reais corporativos.
